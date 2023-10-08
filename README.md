@@ -17,3 +17,5 @@ The Excel these used are 2 file of death cases and vaccinated cases and conduct 
 
 - Export excel to db server
 - runn the sql file
+
+this also can run the visualization using notebook
